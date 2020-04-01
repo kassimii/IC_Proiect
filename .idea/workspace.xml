@@ -2,15 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0df91380-c8c4-437e-8aa3-4414bb169ee4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Self_Made_Healthy/app/src/main/java/com/example/self_made_healthy/SetMealHours.java" beforeDir="false" afterPath="$PROJECT_DIR$/Self_Made_Healthy/app/src/main/java/com/example/self_made_healthy/SetMealHours.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Self_Made_Healthy/app/src/main/res/drawable/meal_clock.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Self_Made_Healthy/app/src/main/res/layout/activity_set_meal_hours.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Self_Made_Healthy/app/src/main/res/layout/activity_set_meal_hours.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Self_Made_Healthy" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Self_Made_Healthy/app/src/main/java/com/example/self_made_healthy/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Self_Made_Healthy/app/src/main/java/com/example/self_made_healthy/SetMealHours.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,8 +44,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -39,6 +58,78 @@
               <item name="Self_Made_Healthy" type="462c0819:PsiDirectoryNode" />
               <item name="Self_Made_Healthy" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Self_Made_Healthy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Self_Made_Healthy" type="462c0819:PsiDirectoryNode" />
+              <item name="Self_Made_Healthy" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Self_Made_Healthy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Self_Made_Healthy" type="462c0819:PsiDirectoryNode" />
+              <item name="Self_Made_Healthy" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Self_Made_Healthy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Self_Made_Healthy" type="462c0819:PsiDirectoryNode" />
+              <item name="Self_Made_Healthy" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Self_Made_Healthy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Self_Made_Healthy" type="462c0819:PsiDirectoryNode" />
+              <item name="Self_Made_Healthy" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Self_Made_Healthy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Self_Made_Healthy" type="462c0819:PsiDirectoryNode" />
+              <item name="Self_Made_Healthy" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Self_Made_Healthy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Self_Made_Healthy" type="462c0819:PsiDirectoryNode" />
+              <item name="Self_Made_Healthy" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Self_Made_Healthy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Self_Made_Healthy" type="462c0819:PsiDirectoryNode" />
+              <item name="Self_Made_Healthy" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="self_made_healthy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Self_Made_Healthy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Self_Made_Healthy" type="462c0819:PsiDirectoryNode" />
+              <item name="Self_Made_Healthy" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -47,7 +138,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="A:/College/AN 3/SEM 2/IC/Self_Made_Healthy" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunDashboard">
@@ -75,24 +166,72 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32980832" />
-      <window_info id="Structure" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="Resources Explorer" weight="0.32980832" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="TODO" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.4979339" visible="true" weight="0.32980832" />
+      <window_info id="Structure" order="2" sideWeight="0.50206614" side_tool="true" weight="0.32980832" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" weight="0.32980832" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" sideWeight="0.50206614" side_tool="true" weight="0.32980832" />
+      <window_info anchor="bottom" id="Find" />
+      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49966952" visible="true" weight="0.29136163" />
+      <window_info anchor="bottom" id="TODO" order="1" weight="0.329429" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.329429" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50033045" side_tool="true" weight="0.29136163" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Self_Made_Healthy/app/src/main/java/com/example/self_made_healthy/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Self_Made_Healthy/app/src/main/java/com/example/self_made_healthy/SetMealHours.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

@@ -77,6 +77,7 @@
         android:layout_marginRight="32dp"
         android:ems="10"
         android:inputType="time"
+        android:background="#FFFFFF"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -89,6 +90,7 @@
         android:layout_marginBottom="96dp"
         android:ems="10"
         android:inputType="time"
+        android:background="#FFFFFF"
         app:layout_constraintBottom_toTopOf="@+id/photo_button"
         app:layout_constraintEnd_toEndOf="parent" />
 
@@ -96,11 +98,12 @@
         android:id="@+id/lunch_time"
         android:layout_width="100dp"
         android:layout_height="50dp"
-        android:layout_marginStart="155dp"
-        android:layout_marginLeft="155dp"
+        android:layout_marginStart="150dp"
+        android:layout_marginLeft="150dp"
         android:layout_marginEnd="156dp"
         android:layout_marginRight="156dp"
         android:layout_marginBottom="20dp"
+        android:background="#FFFFFF"
         android:ems="10"
         android:inputType="time"
         app:layout_constraintBottom_toTopOf="@+id/meals_button"
@@ -117,6 +120,7 @@
         android:layout_marginBottom="96dp"
         android:ems="10"
         android:inputType="time"
+        android:background="#FFFFFF"
         app:layout_constraintBottom_toTopOf="@+id/profile_button"
         app:layout_constraintStart_toStartOf="parent" />
 
@@ -129,6 +133,7 @@
         android:layout_marginTop="172dp"
         android:ems="10"
         android:inputType="time"
+        android:background="#FFFFFF"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -161,12 +166,56 @@
 
     <ImageView
         android:id="@+id/breakfast_image"
-        android:layout_width="75dp"
-        android:layout_height="75dp"
-        android:layout_marginEnd="40dp"
-        android:layout_marginRight="40dp"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginEnd="42dp"
+        android:layout_marginRight="42dp"
+        android:layout_marginBottom="3dp"
         app:layout_constraintBottom_toTopOf="@+id/breakfast_time"
         app:layout_constraintEnd_toEndOf="parent"
         app:srcCompat="@drawable/breakfast" />
+
+    <ImageView
+        android:id="@+id/lunch_image"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginBottom="60dp"
+        app:layout_constraintBottom_toTopOf="@+id/meals_button"
+        app:layout_constraintEnd_toStartOf="@+id/snack1_time"
+        app:layout_constraintStart_toEndOf="@+id/snack2_time"
+        app:srcCompat="@drawable/lunch" />
+
+    <ImageView
+        android:id="@+id/snack1_image"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginEnd="41dp"
+        android:layout_marginRight="41dp"
+        app:layout_constraintBottom_toTopOf="@+id/snack1_time"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/snack1" />
+
+    <ImageView
+        android:id="@+id/snack2_image"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginBottom="140dp"
+        app:layout_constraintBottom_toTopOf="@+id/profile_button"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/snack2" />
+
+    <ImageView
+        android:id="@+id/dinner_image"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="42dp"
+        android:layout_marginLeft="42dp"
+        app:layout_constraintBottom_toTopOf="@+id/dinner_time"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/dinner" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

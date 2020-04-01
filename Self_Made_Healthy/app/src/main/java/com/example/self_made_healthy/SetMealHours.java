@@ -31,6 +31,7 @@ public class SetMealHours extends AppCompatActivity {
                 new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
+                        finish();
                         openProfileEditingActivity();
                     }
                 }
@@ -41,6 +42,9 @@ public class SetMealHours extends AppCompatActivity {
     {
         Intent intent = new Intent(this, EditProfile.class);
         startActivity(intent);
+
+        overridePendingTransition(0,0);
+        intent.addFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION);
     }
 
     public void onCameraButtonClick(){
@@ -49,6 +53,7 @@ public class SetMealHours extends AppCompatActivity {
                 new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
+                        finish();
                         openPhotoAnalsisActivity();
                     }
                 }
@@ -59,6 +64,9 @@ public class SetMealHours extends AppCompatActivity {
     {
         Intent intent = new Intent(this, AnalyzePhoto.class);
         startActivity(intent);
+
+        overridePendingTransition(0,0);
+        intent.addFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION);
     }
 
 

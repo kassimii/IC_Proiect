@@ -40,6 +40,9 @@ public class MainActivity extends AppCompatActivity {
     {
         Intent intent = new Intent(this, EditProfile.class);
         startActivity(intent);
+
+        overridePendingTransition(0,0);
+        intent.addFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION); // no animations between activity change
     }
 
     public void onMealButtonClick()
@@ -58,6 +61,9 @@ public class MainActivity extends AppCompatActivity {
     public void openMealHoursSettingActiviy(){
         Intent intent = new Intent(this, SetMealHours.class);
         startActivity(intent);
+
+        overridePendingTransition(0,0);
+        intent.addFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION);
     }
 
     public void onCameraButtonClick(){
@@ -76,6 +82,9 @@ public class MainActivity extends AppCompatActivity {
     {
         Intent intent = new Intent(this, AnalyzePhoto.class);
         startActivity(intent);
+
+        overridePendingTransition(0,0);
+        intent.addFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION);
     }
 
 

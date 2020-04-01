@@ -6,40 +6,16 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.EditText;
 
+public class EditProfile extends AppCompatActivity {
 
-public class MainActivity extends AppCompatActivity {
-
-    private Button setMealsButton;
-    private Button analysePhotoButton;
-    private Button editProfileButton;
-
+    private Button setMealsButton, analysePhotoButton;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-        onProfileButtonClick();
+        setContentView(R.layout.activity_edit_profile);
         onMealButtonClick();
         onCameraButtonClick();
-    }
-
-    public void onProfileButtonClick(){
-        editProfileButton = (Button) findViewById(R.id.profile_button);
-        editProfileButton.setOnClickListener(
-                new View.OnClickListener() {
-                    @Override
-                    public void onClick(View v) {
-                        openProfileEditingActivity();
-                    }
-                }
-        );
-    }
-
-    public void openProfileEditingActivity()
-    {
-        Intent intent = new Intent(this, EditProfile.class);
-        startActivity(intent);
     }
 
     public void onMealButtonClick()
@@ -77,6 +53,4 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, AnalyzePhoto.class);
         startActivity(intent);
     }
-
-
 }

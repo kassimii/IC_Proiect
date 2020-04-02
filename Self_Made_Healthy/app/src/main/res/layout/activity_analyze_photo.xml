@@ -53,14 +53,29 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/button3" />
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="293dp"
-        android:layout_marginEnd="161dp"
-        android:layout_marginRight="161dp"
-        android:text="photo analysis"
+
+    <ImageView
+        android:id="@+id/image_captured"
+        android:layout_width="186dp"
+        android:layout_height="203dp"
+        android:layout_marginTop="16dp"
+        android:scaleType="centerCrop"
+       android:src="@drawable/ic_select_image"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/capture_image_button"
+        android:layout_width="200dp"
+        android:layout_height="75dp"
+        android:layout_marginBottom="50dp"
+        android:background="@drawable/custom_take_photo_button"
+        android:drawableTop="@drawable/ic_take_photo"
+        app:layout_constraintBottom_toTopOf="@+id/meals_button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>

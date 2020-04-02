@@ -31,7 +31,7 @@ public class SetMealHours extends AppCompatActivity {
                 new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
-                        finish();
+                        finish(); //return to Main Activity before opening Profile Editing Activity
                         openProfileEditingActivity();
                     }
                 }
